@@ -1,4 +1,4 @@
-## Hi there 👋
+# About Me
 
 I work at the intersection of business strategy and data execution. For nearly two decades, I’ve helped organizations modernize their data ecosystems, adopt the cloud, and build analytics tools that actually get used. I enjoy connecting the technical side of data architecture with the practical needs of the business — translating what teams think they need into what actually delivers value.
 
@@ -8,10 +8,10 @@ Currently pursuing a Master’s in Data Science, I am expanding my work in predi
 
 I’m always open to discussing data transformation, analytics strategy, cloud platforms, and emerging AI applications in enterprise environments.
 
-Apart from learning, I enjoy dancing, working out, reading and travelling. 
+Apart from learning, I enjoy dancing :woman_dancing:, working out, reading and travelling.  :slightly_smiling_face:
 
 <!--
-**arthiramraj/arthiramraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arthiramraj/arthiramraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
