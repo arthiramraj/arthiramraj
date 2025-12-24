@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I work at the intersection of business strategy and data execution. For nearly two decades, I’ve helped organizations modernize their data ecosystems, adopt the cloud, and build analytics tools that actually get used. I enjoy connecting the technical side of data architecture with the practical needs of the business — translating what teams think they need into what actually delivers value.
+
+Some of my favorite career moments include leading the launch of Optimum Mobile, guiding enterprise migrations to Google Cloud, and designing a 360° Customer View platform that improved everything from reporting accuracy to customer retention strategies.
+
+Currently pursuing a Master’s in Data Science, I am expanding my work in predictive analytics, automation, and AI/ML applications to drive the next wave of intelligent operations.
+
+Apart from learning, I enjoy dancing, working out, reading and travelling. 
+
 <!--
 **arthiramraj/arthiramraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
