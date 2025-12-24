@@ -6,6 +6,8 @@ Some of my favorite career moments include leading the launch of Optimum Mobile,
 
 Currently pursuing a Master’s in Data Science, I am expanding my work in predictive analytics, automation, and AI/ML applications to drive the next wave of intelligent operations.
 
+I’m always open to discussing data transformation, analytics strategy, cloud platforms, and emerging AI applications in enterprise environments.
+
 Apart from learning, I enjoy dancing, working out, reading and travelling. 
 
 <!--
